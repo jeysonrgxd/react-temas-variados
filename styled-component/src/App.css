@@ -1,0 +1,19 @@
+body{
+  height: 100vh;
+  background-color: #282c34;
+  color: #fff;
+}
+
+.App-header{
+  padding: 1.4rem;
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+  
+}
+
+
+
